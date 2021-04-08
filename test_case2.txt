@@ -1,0 +1,15 @@
+*/Test Case 2*/
+*/Group No: 55*/
+*/Jhaveri Aditya Alok: 2018A7PS0209H*/
+*/Rushabh Parikh: 2018A7PS1217H*/
+*/Dhruv Maheshwari: 2018A7PS0170H*/
+*/Lokesh Mehra: 2018A7PS0268H*/
+
+int method main()
+@
+	output("Enter your name:");
+	string name;
+	name = input();
+	output("Hello");
+	output(name);
+$

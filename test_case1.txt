@@ -1,0 +1,26 @@
+*/Test Case 1*/
+*/Group No: 55*/
+*/Jhaveri Aditya Alok: 2018A7PS0209H*/
+*/Rushabh Parikh: 2018A7PS1217H*/
+*/Dhruv Maheshwari: 2018A7PS0170H*/
+*/Lokesh Mehra: 2018A7PS0268H*/
+
+int method fact(int n)
+@
+	if(n<=1)
+	@
+		return 1;
+	$
+	else()
+	@
+		return n*fact(n-1);
+	$
+$
+int method main(int n)
+@
+	int a;
+	a=input();
+	int result;
+	result = fact(a);
+	output(a);
+$

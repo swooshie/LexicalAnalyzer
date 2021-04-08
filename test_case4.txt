@@ -1,0 +1,11 @@
+*/Test Case 4*/
+*/Group No: 55*/
+*/Jhaveri Aditya Alok: 2018A7PS0209H*/
+*/Rushabh Parikh: 2018A7PS1217H*/
+*/Dhruv Maheshwari: 2018A7PS0170H*/
+*/Lokesh Mehra: 2018A7PS0268H*/
+
+int method main()
+@
+	float array [6]= [1.25, -3.4, 0.1100, 0.0.1, 3.5, 7.2];
+$

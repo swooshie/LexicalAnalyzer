@@ -1,0 +1,27 @@
+Lexeme: int , Token : INT found at line #8
+Lexeme: method , Token : METHOD found at line #8
+Lexeme: main , Token : IDENTIFIER found at line #8
+Lexeme: ( , Token : OPEN_PARENTHESIS found at line #8
+Lexeme: ) , Token : CLOSED_PARANTHESIS found at line #8
+Lexeme: @ , Token : START_SYM found at line #9
+Lexeme: float , Token : FLOAT found at line #10
+Lexeme: array , Token : IDENTIFIER found at line #10
+Lexeme: [ , Token : OPEN_SQUARE found at line #10
+Lexeme: 6 , Token : INTEGER_LIT found at line #10
+Lexeme: ] , Token : CLOSE_SQUARE found at line #10
+Lexeme: = , Token : ASSIGN_OP found at line #10
+Lexeme: [ , Token : OPEN_SQUARE found at line #10
+Lexeme: 1.25 , Token : FLOAT_LIT found at line #10
+Lexeme: , , Token : COMMA found at line #10
+Lexeme: -3.4 , Token : FLOAT_LIT found at line #10
+Lexeme: , , Token : COMMA found at line #10
+Lexical Error found at line #10; Lexeme: 0.1100
+Lexeme: , , Token : COMMA found at line #10
+Lexical Error found at line #10; Lexeme: 0.0.1
+Lexeme: , , Token : COMMA found at line #10
+Lexeme: 3.5 , Token : FLOAT_LIT found at line #10
+Lexeme: , , Token : COMMA found at line #10
+Lexeme: 7.2 , Token : FLOAT_LIT found at line #10
+Lexeme: ] , Token : CLOSE_SQUARE found at line #10
+Lexeme: ; , Token : SEMICOLON found at line #10
+Lexeme: $ , Token : END_SYM found at line #11

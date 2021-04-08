@@ -1,0 +1,21 @@
+*/Test Case 5*/
+*/Group No: 55*/
+*/Jhaveri Aditya Alok: 2018A7PS0209H*/
+*/Rushabh Parikh: 2018A7PS1217H*/
+*/Dhruv Maheshwari: 2018A7PS0170H*/
+*/Lokesh Mehra: 2018A7PS0268H*/
+
+int method main()
+@
+	int n;
+	n = input();
+	if(n%2==1)
+	@
+		output(1);
+	$
+	else()
+	@
+		output(0);
+	$
+	return 0;
+$
